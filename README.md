@@ -34,6 +34,7 @@ $ npm run dev
 2. _run npm install_
 3. _create a .env file and store the following in it:_
    - NODE_ENV = "development"
+   - PORT = 3000
    - MONGO_URI = "go-to-atlas-and-create-db-then-post-connection-string-here-with-your-password"
 4. _start the dev server_
    - ```bash
