@@ -47,5 +47,3 @@ $ npm run dev
 | Developed By  |                                                                                                                                               |                                                                                                                                              |
 | :-----------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
 | William Moody | [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wmoody6293) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-moody/) |
-
-# graphQL-app
